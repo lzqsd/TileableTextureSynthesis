@@ -6,4 +6,5 @@ Please cite this paper if you use the code.
 
 ## Method overview
 
-## Run the code
+## Instructions
+
