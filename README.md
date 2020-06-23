@@ -8,7 +8,7 @@ Please cite this paper if you use the code.
 We adopt a graph-cut-based [2] methods to perform tileable texture synthesis, which can keep the structure of the texture. Please refer to [1] for more details. A demonstration of our pipeline is shown below. 
 ![](http://cseweb.ucsd.edu/~viscomp/projects/CVPR20InverseIndoor/github/texture_method.png)
 Some example results are shown below.
-![](http://cseweb.ucsd.edu/~viscomp/projects/CVPR20InverseIndoor/github/texture_results.png)
+![](http://cseweb.ucsd.edu/~viscomp/projects/CVPR20InverseIndoor/github/texture_result.png)
 
 ## Instructions
 
