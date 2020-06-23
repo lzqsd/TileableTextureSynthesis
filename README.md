@@ -11,6 +11,7 @@ Some example results are shown below.
 ![](http://cseweb.ucsd.edu/~viscomp/projects/CVPR20InverseIndoor/github/texture_result.png)
 
 ## Instructions
+* First, download the Adobe Stock materials from this [link](https://stock.adobe.com/). 
 
 ## References
 * [1] Li, Z., Shafiei, M., Ramamoorthi, R., Sunkavalli, K., & Chandraker, M. (2020). Inverse rendering for complex indoor scenes: Shape, spatially-varying lighting and svbrdf from a single image. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 2475-2484).
