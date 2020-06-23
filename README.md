@@ -12,6 +12,9 @@ Some example results are shown below.
 
 ## Instructions
 * First, download the Adobe Stock materials from this [link](https://stock.adobe.com/). 
+* Open `runTextureSynthesis.m`. At line 13, set `root` to be the directory you have the Adobe Stock materials. 
+* Go to directory `Bk_matlab`. Compile the code as instructed.
+* Run `runTextureSynthesis.m`.
 
 ## References
 * [1] Li, Z., Shafiei, M., Ramamoorthi, R., Sunkavalli, K., & Chandraker, M. (2020). Inverse rendering for complex indoor scenes: Shape, spatially-varying lighting and svbrdf from a single image. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 2475-2484).
