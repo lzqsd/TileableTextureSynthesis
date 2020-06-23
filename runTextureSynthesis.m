@@ -9,13 +9,13 @@ lambda_d = 1;
 lambda_n = 1;
 lambda_r = 0.5;
 startPoint = 1;
-endPoint = 350;
+endPoint = 2000;
+root = 'ROOT';
 
 %% Add path
 addpath(genpath('./Bk_matlab') );
 
 %% Load the data
-root = '/media/zhl/DATA/BRDFOriginDataset';
 matDirs = dir(fullfile(root, 'Material__*') );
 
 for n = startPoint : min(length(matDirs ), endPoint)
